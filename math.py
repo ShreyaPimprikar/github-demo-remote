@@ -16,3 +16,6 @@ def divide(x,y):
         return DIV_BY_0_ERROR
     else:
         return x/y
+
+ def square(x):                        #on remote
+    return x*x
