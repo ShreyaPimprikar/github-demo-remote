@@ -26,3 +26,6 @@ def divide(x,y):
 
 def area(x,y):                      #on local repo
     return 2*(x+y)
+    
+ def square(x):                        #on remote
+    return x*x
