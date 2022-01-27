@@ -16,3 +16,13 @@ def divide(x,y):
         return DIV_BY_0_ERROR
     else:
         return x/y
+
+
+
+
+
+
+
+
+def area(x,y):                      #on local repo
+    return 2*(x+y)
